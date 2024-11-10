@@ -1,2 +1,2 @@
 # TerraformLoggingScript
-Log to file users' actions in Terraform. Easy to replace with other application.
+Log to file users' actions in Terraform (shell command line application). Easy to replace with an other app.
